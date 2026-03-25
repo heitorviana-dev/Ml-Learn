@@ -18,7 +18,7 @@
 
 ---
 
-## ✅ Progresso de leitura (exemplo)
+## ✅ Progresso de leitura
 
 - [ ] Capítulo 1
 - [ ] Capítulo 2
