@@ -20,7 +20,7 @@
 
 ## ✅ Progresso de leitura
 
-- [ ] Capítulo 1
+- [x] Capítulo 1
 - [ ] Capítulo 2
 - [ ] Capítulo 3
 - [ ] Capítulo 4
