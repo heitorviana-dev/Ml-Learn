@@ -11,7 +11,6 @@
 ## 📚 Conteúdo do repositório
 
 - Resumos dos capítulos
-- Anotações pessoais
 - Exercícios práticos
 - Implementações em Python com Scikit-Learn/Keras/TensorFlow
 - Experimentos e insights
